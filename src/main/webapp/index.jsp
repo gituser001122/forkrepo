@@ -22,7 +22,7 @@
 <body>
     <h1>hi this is ur classmate</h1>
     <p>this is sample page for deploying in tomcat server</p>
-    <p></p>
+    <p>automatic code pull</p>
     <p></p>
     <p></p>
     <p></p>
